@@ -1,1 +1,0 @@
-# guramera.github.io

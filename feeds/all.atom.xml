@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSouls</title><link href="http://guramera.github.io/" rel="alternate"></link><link href="http://guramera.github.io/feeds/all.atom.xml" rel="self"></link><id>http://guramera.github.io/</id><updated>2018-07-19T22:00:00+07:00</updated><entry><title>Comparing Pokemon with Plotly Polar Chart (Pokemon Dataset Part 3)</title><link href="http://guramera.github.io/notebook-3.html" rel="alternate"></link><published>2018-07-19T22:00:00+07:00</published><updated>2018-07-19T22:00:00+07:00</updated><author><name>Anung Grahito</name></author><id>tag:guramera.github.io,2018-07-19:/notebook-3.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DataSouls</title><link href="https://guramera.github.io/" rel="alternate"></link><link href="https://guramera.github.io/feeds/all.atom.xml" rel="self"></link><id>https://guramera.github.io/</id><updated>2018-07-19T22:00:00+07:00</updated><entry><title>Comparing Pokemon with Plotly Polar Chart (Pokemon Dataset Part 3)</title><link href="https://guramera.github.io/notebook-3.html" rel="alternate"></link><published>2018-07-19T22:00:00+07:00</published><updated>2018-07-19T22:00:00+07:00</updated><author><name>Anung Grahito</name></author><id>tag:guramera.github.io,2018-07-19:/notebook-3.html</id><summary type="html">
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
@@ -1534,7 +1534,7 @@ h6:hover .anchor-link {
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="python"></category><category term="pandas"></category><category term="plotly"></category></entry><entry><title>Selecting and Filtering Data (Pokemon Dataset Part 2)</title><link href="http://guramera.github.io/notebook-2.html" rel="alternate"></link><published>2018-07-18T22:00:00+07:00</published><updated>2018-07-18T22:00:00+07:00</updated><author><name>Anung Grahito</name></author><id>tag:guramera.github.io,2018-07-18:/notebook-2.html</id><summary type="html">
+</content><category term="python"></category><category term="pandas"></category><category term="plotly"></category></entry><entry><title>Selecting and Filtering Data (Pokemon Dataset Part 2)</title><link href="https://guramera.github.io/notebook-2.html" rel="alternate"></link><published>2018-07-18T22:00:00+07:00</published><updated>2018-07-18T22:00:00+07:00</updated><author><name>Anung Grahito</name></author><id>tag:guramera.github.io,2018-07-18:/notebook-2.html</id><summary type="html">
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
@@ -2778,7 +2778,7 @@ h6:hover .anchor-link {
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="python"></category><category term="pandas"></category></entry><entry><title>Introduction to Pandas and Seaborn (Pokemon Dataset Part 1)</title><link href="http://guramera.github.io/notebook-1.html" rel="alternate"></link><published>2018-07-17T20:00:00+07:00</published><updated>2018-07-17T20:00:00+07:00</updated><author><name>Anung Grahito</name></author><id>tag:guramera.github.io,2018-07-17:/notebook-1.html</id><summary type="html">
+</content><category term="python"></category><category term="pandas"></category></entry><entry><title>Introduction to Pandas and Seaborn (Pokemon Dataset Part 1)</title><link href="https://guramera.github.io/notebook-1.html" rel="alternate"></link><published>2018-07-17T20:00:00+07:00</published><updated>2018-07-17T20:00:00+07:00</updated><author><name>Anung Grahito</name></author><id>tag:guramera.github.io,2018-07-17:/notebook-1.html</id><summary type="html">
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
